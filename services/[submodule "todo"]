@@ -1,0 +1,6 @@
+[submodule "todo"]
+	path = todo
+	url = git@github.com:TeamIDE/todo.git
+[submodule "todo-client"]
+	path = todo-client
+	url = https://github.com/TeamIDE/todo-client
