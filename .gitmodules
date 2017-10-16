@@ -10,3 +10,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:TeamIDE/client.git
+[submodule "files"]
+	path = files
+	url = git@github.com:TeamIDE/files.git
