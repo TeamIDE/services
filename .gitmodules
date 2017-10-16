@@ -7,3 +7,6 @@
 [submodule "projects"]
 	path = projects
 	url = git@github.com:TeamIDE/projects.git
+[submodule "client"]
+	path = client
+	url = git@github.com:TeamIDE/client.git
